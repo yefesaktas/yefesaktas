@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yefesaktas
 - 🌱 I’m currently computer engineering student
-- 👀 I’m currently interested in cyber security, linux system administration or scientific projects involving computer engineering
+- 👀 I’m currently interested in cyber security, linux system administration and scientific projects involving computer engineering
 - 📨 How to reach me www.linkedin.com/in/yefesaktas 
 
 <!---
