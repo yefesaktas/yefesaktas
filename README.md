@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 Computer engineering student who wants to specialize in cyber security, low-level computer engineering topics and scientific projects involving computer engineering.</p>
+<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who wants to specialize in cybersecurity, low-level computer engineering topics, and scientific projects involving computer engineering.</p>
 
 ###
 
