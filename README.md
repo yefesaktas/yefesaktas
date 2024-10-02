@@ -1,4 +1,4 @@
-<h1 align="center">Yusuf Efe Aktaş | Cybersecurity Researcher</h1>
+<h1 align="center">Yusuf Efe Aktaş | AI, Cybersecurity & Signal Processing Enthusiast</h1>
 
 ###
 
