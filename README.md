@@ -1,4 +1,4 @@
-<h1 align="center">Yusuf Efe Aktaş | ML, Cybersecurity & Signal Processing Enthusiast</h1>
+<h1 align="center">Yusuf Efe Aktaş | ML & Cybersecurity Enthusiast</h1>
 
 ###
 
