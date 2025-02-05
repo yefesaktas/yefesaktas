@@ -36,20 +36,6 @@
 
 ###
 
-<h3 align="left">You can reach me via:</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yefesaktas/" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left"></h1>
 
 ###
