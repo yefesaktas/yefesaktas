@@ -1,8 +1,8 @@
-<h1 align="center">Yusuf Efe Aktaş | ML & Cybersecurity Enthusiast</h1>
+<h1 align="center">Yusuf Efe Aktaş | Data Science & Cybersec</h1>
 
 ###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who wants to specialize in cybersecurity, low-level computer engineering topics, and scientific projects involving computer engineering.</p>
+<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in data science, low-level computer engineering topics, and scientific projects involving computer engineering.</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
