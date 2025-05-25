@@ -1,4 +1,4 @@
-<h1 align="center">Yusuf Efe Aktaş | Data Science & Cybersec</h1>
+<h1 align="center">Yusuf Efe Aktaş | Image Processing & Embedded Systems</h1>
 
 ###
 
