@@ -1,8 +1,8 @@
-<h1 align="center">Yusuf Efe Aktaş | Image Processing & Embedded Systems</h1>
+<h1 align="center">Yusuf Efe Aktaş | Computer Vision & AI</h1>
 
 ###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in data science, low-level computer engineering topics, and scientific projects involving computer engineering.</p>
+<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in computer vision, low-level systems and artificial intelligence.</p>
 
 ###
 
@@ -25,9 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
 ###
@@ -44,16 +41,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZvOWlmMmZsdHk4b3Nrd2hlNHIybm42YjNyMDhjN3ZzZm50YWVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif"  />
-  <img height="140" src="https://media1.tenor.com/m/5sshv69O408AAAAC/nisan-melikeyusuf.gif" />
-</div>
-
-###
-
-<p align="center">Working with ❤️ for a better world</p>
+<p align="center">Working with ❤️</p>
 
 ###
 
