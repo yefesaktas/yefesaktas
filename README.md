@@ -1,8 +1,8 @@
-<h1 align="center">Yusuf Efe Aktaş | Computer Vision & AI</h1>
+<h1 align="center">Yusuf Efe Aktaş</h1>
 
 ###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in computer vision, low-level systems and artificial intelligence.</p>
+<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in low-level systems and artificial intelligence.</p>
 
 ###
 
