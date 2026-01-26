@@ -2,13 +2,7 @@
 
 ###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 A computer engineering student who engaged in low-level systems and artificial intelligence.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Tools and technologies that I am currently working with</h2>
+<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 Computer engineering student who engaged in low-level systems and artificial intelligence.</p>
 
 ###
 
@@ -38,10 +32,6 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<p align="center">Working with ❤️</p>
 
 ###
 
