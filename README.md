@@ -1,8 +1,9 @@
-<h1 align="center">Yusuf Efe Aktaş</h1>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=87&section=header&reversal=false&text=Yusuf%20Efe%20Akta%C5%9F&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-###
 
-<p align="left">⚡Hi, I’m @yefesaktas<br><br>💎 Computer engineering student who engaged in low-level systems and artificial intelligence.</p>
+<p align="left">🔹I’m @yefesaktas<br><br>🔹Computer engineering student specializing in low-level systems and artificial intelligence</p>
 
 ###
 
@@ -19,21 +20,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
 </div>
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yefesaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&hide_progress=true&order=2" height="130" alt="languages graph"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
 
 <!---
 yefesaktas/yefesaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
