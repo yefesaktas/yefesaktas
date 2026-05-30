@@ -26,8 +26,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/kullanici_adin">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yefesaktas&theme=redical&radius=16" width="800">
+  <a href="https://github.com/yefesaktas">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yefesaktas&theme=redical&radius=16" width="700">
   </a>
 </div>
 
