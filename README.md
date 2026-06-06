@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=87&section=header&reversal=false&text=Yusuf%20Efe%20Akta%C5%9F&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=87&section=header&reversal=false&text=Yusuf%20Efe%20Akta%C5%9F&fontSize=40&fontColor=2761F5&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 
