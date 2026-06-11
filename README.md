@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="left">🔹I’m @yefesaktas<br><br>🔹Computer engineering student specializing in low-level systems and artificial intelligence</p>
+<p align="left">🔹 I’m @yefesaktas<br><br>🔹 Computer engineering student specializing in low-level systems and artificial intelligence</p>
 
 ###
 
